@@ -1,0 +1,14 @@
+.dscSideBar_fieldGroup {
+  width: 100%;
+
+  .euiButtonEmpty__content {
+    justify-content: flex-end;
+  }
+}
+
+.dscSidebar__item:hover,
+.dscSidebar__item:focus {
+  background-color: $euiColorLightestShade;
+  padding-left: $euiSizeXS;
+  margin-left: -$euiSizeXS;
+}

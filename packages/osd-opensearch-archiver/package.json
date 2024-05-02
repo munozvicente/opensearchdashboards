@@ -1,0 +1,18 @@
+{
+  "name": "@osd/opensearch-archiver",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "main": "target/index.js",
+  "opensearchDashboards": {
+    "devOnly": true
+  },
+  "scripts": {
+    "osd:bootstrap": "../../scripts/use_node ../../scripts/remove.js target && tsc",
+    "osd:watch": "../../scripts/use_node ../../scripts/remove.js target && tsc --watch"
+  },
+  "dependencies": {
+    "@osd/dev-utils": "1.0.0",
+    "@opensearch-project/opensearch": "^1.1.0"
+  },
+  "devDependencies": {}
+}

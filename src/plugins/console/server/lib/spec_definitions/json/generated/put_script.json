@@ -1,0 +1,19 @@
+{
+  "put_script": {
+    "url_params": {
+      "timeout": "",
+      "master_timeout": "",
+      "cluster_manager_timeout": "",
+      "context": ""
+    },
+    "methods": [
+      "PUT",
+      "POST"
+    ],
+    "patterns": [
+      "_scripts/{id}",
+      "_scripts/{id}/{context}"
+    ],
+    "documentation": "https://opensearch.org/docs/latest/api-reference/script-apis/create-stored-script/"
+  }
+}

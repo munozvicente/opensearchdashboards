@@ -1,0 +1,1310 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading page  logo in dark mode  rendered using loading logo dark mode URL 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    OpenSearch Dashboards
+  </title>,
+  <link
+    href="[object Object]/ui/favicons/apple-touch-icon.png"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-32x32.png"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-16x16.png"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/manifest.json"
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="[object Object]/ui/favicons/safari-pinned-tab.svg"
+    rel="mask-icon"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon.ico"
+    rel="shortcut icon"
+  />,
+  <meta
+    content="[object Object]/ui/favicons/browserconfig.xml"
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{\\"defaultUrl\\":\\"/defaultModeMark\\",\\"darkModeUrl\\":\\"/darkModeMark\\"},\\"loadingLogo\\":{\\"defaultUrl\\":\\"/defaultModeLoadingLogo\\",\\"darkModeUrl\\":\\"/darkModeLoadingLogo\\"},\\"title\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="OpenSearch Dashboards logo"
+          class="loadingLogo"
+          data-test-image-url="/defaultModeLoadingLogo"
+          data-test-subj="customLogo"
+          loading="eager"
+          src="/defaultModeLoadingLogo"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="OpenSearch Dashboards logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/defaultModeMark"
+      data-test-subj="custom logo"
+      src="/defaultModeMark"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;
+
+exports[`Loading page  logo in dark mode  rendered using loading logo default mode URL 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    OpenSearch Dashboards
+  </title>,
+  <link
+    href="[object Object]/ui/favicons/apple-touch-icon.png"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-32x32.png"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-16x16.png"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/manifest.json"
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="[object Object]/ui/favicons/safari-pinned-tab.svg"
+    rel="mask-icon"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon.ico"
+    rel="shortcut icon"
+  />,
+  <meta
+    content="[object Object]/ui/favicons/browserconfig.xml"
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{\\"defaultUrl\\":\\"/defaultModeMark\\",\\"darkModeUrl\\":\\"/darkModeMark\\"},\\"loadingLogo\\":{\\"defaultUrl\\":\\"/defaultModeLoadingLogo\\"},\\"title\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="OpenSearch Dashboards logo"
+          class="loadingLogo"
+          data-test-image-url="/defaultModeLoadingLogo"
+          data-test-subj="customLogo"
+          loading="eager"
+          src="/defaultModeLoadingLogo"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="OpenSearch Dashboards logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/defaultModeMark"
+      data-test-subj="custom logo"
+      src="/defaultModeMark"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;
+
+exports[`Loading page  logo in dark mode  rendered using mark dark mode URL with loading bar 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    OpenSearch Dashboards
+  </title>,
+  <link
+    href="[object Object]/ui/favicons/apple-touch-icon.png"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-32x32.png"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-16x16.png"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/manifest.json"
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="[object Object]/ui/favicons/safari-pinned-tab.svg"
+    rel="mask-icon"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon.ico"
+    rel="shortcut icon"
+  />,
+  <meta
+    content="[object Object]/ui/favicons/browserconfig.xml"
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{\\"defaultUrl\\":\\"/defaultModeMark\\",\\"darkModeUrl\\":\\"/darkModeMark\\"},\\"loadingLogo\\":{},\\"title\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="OpenSearch Dashboards logo"
+          class="loadingLogo"
+          data-test-image-url="/defaultModeMark"
+          data-test-subj="alternativeLogo"
+          loading="eager"
+          src="/defaultModeMark"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+      <div
+        class="osdProgress"
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="OpenSearch Dashboards logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/defaultModeMark"
+      data-test-subj="custom logo"
+      src="/defaultModeMark"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;
+
+exports[`Loading page  logo in dark mode  rendered using mark default mode URL with loading bar 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    OpenSearch Dashboards
+  </title>,
+  <link
+    href="[object Object]/ui/favicons/apple-touch-icon.png"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-32x32.png"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-16x16.png"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/manifest.json"
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="[object Object]/ui/favicons/safari-pinned-tab.svg"
+    rel="mask-icon"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon.ico"
+    rel="shortcut icon"
+  />,
+  <meta
+    content="[object Object]/ui/favicons/browserconfig.xml"
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{\\"defaultUrl\\":\\"/defaultModeMark\\"},\\"loadingLogo\\":{},\\"title\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="OpenSearch Dashboards logo"
+          class="loadingLogo"
+          data-test-image-url="/defaultModeMark"
+          data-test-subj="alternativeLogo"
+          loading="eager"
+          src="/defaultModeMark"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+      <div
+        class="osdProgress"
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="OpenSearch Dashboards logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/defaultModeMark"
+      data-test-subj="custom logo"
+      src="/defaultModeMark"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;
+
+exports[`Loading page  logo in dark mode  renders using original opensearch loading spinner 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    OpenSearch Dashboards
+  </title>,
+  <link
+    href="[object Object]/ui/favicons/apple-touch-icon.png"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-32x32.png"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-16x16.png"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/manifest.json"
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="[object Object]/ui/favicons/safari-pinned-tab.svg"
+    rel="mask-icon"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon.ico"
+    rel="shortcut icon"
+  />,
+  <meta
+    content="[object Object]/ui/favicons/browserconfig.xml"
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{},\\"loadingLogo\\":{},\\"title\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="OpenSearch Dashboards logo"
+          class="loadingLogo"
+          data-test-image-url="/ui/logos/opensearch_spinner_on_light.svg"
+          data-test-subj="defaultLogo"
+          loading="eager"
+          src="/ui/logos/opensearch_spinner_on_light.svg"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="OpenSearch Dashboards logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/ui/logos/opensearch_mark_on_light.svg"
+      data-test-subj="default logo"
+      src="/ui/logos/opensearch_mark_on_light.svg"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;
+
+exports[`Loading page  logo in default mode  rendered using loading logo default mode URL 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    custom title
+  </title>,
+  <link
+    href="[object Object]/ui/favicons/apple-touch-icon.png"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-32x32.png"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-16x16.png"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/manifest.json"
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="[object Object]/ui/favicons/safari-pinned-tab.svg"
+    rel="mask-icon"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon.ico"
+    rel="shortcut icon"
+  />,
+  <meta
+    content="[object Object]/ui/favicons/browserconfig.xml"
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{\\"defaultUrl\\":\\"/defaultModeMark\\"},\\"loadingLogo\\":{\\"defaultUrl\\":\\"defaultModeLoadingLogo/\\"},\\"applicationTitle\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="custom title logo"
+          class="loadingLogo"
+          data-test-image-url="defaultModeLoadingLogo/"
+          data-test-subj="customLogo"
+          loading="eager"
+          src="defaultModeLoadingLogo/"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="custom title logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/defaultModeMark"
+      data-test-subj="custom logo"
+      src="/defaultModeMark"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;
+
+exports[`Loading page  logo in default mode  rendered using mark default mode URL with horizontal loading bar 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    custom title
+  </title>,
+  <link
+    href="[object Object]/ui/favicons/apple-touch-icon.png"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-32x32.png"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-16x16.png"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/manifest.json"
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="[object Object]/ui/favicons/safari-pinned-tab.svg"
+    rel="mask-icon"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon.ico"
+    rel="shortcut icon"
+  />,
+  <meta
+    content="[object Object]/ui/favicons/browserconfig.xml"
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{\\"defaultUrl\\":\\"/defaultModeMark\\"},\\"loadingLogo\\":{},\\"applicationTitle\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="custom title logo"
+          class="loadingLogo"
+          data-test-image-url="/defaultModeMark"
+          data-test-subj="alternativeLogo"
+          loading="eager"
+          src="/defaultModeMark"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+      <div
+        class="osdProgress"
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="custom title logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/defaultModeMark"
+      data-test-subj="custom logo"
+      src="/defaultModeMark"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;
+
+exports[`Loading page  logo in default mode  rendered using the original OpenSearch loading logo spinner 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    custom title
+  </title>,
+  <link
+    href="[object Object]/ui/favicons/apple-touch-icon.png"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-32x32.png"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-16x16.png"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/manifest.json"
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="[object Object]/ui/favicons/safari-pinned-tab.svg"
+    rel="mask-icon"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon.ico"
+    rel="shortcut icon"
+  />,
+  <meta
+    content="[object Object]/ui/favicons/browserconfig.xml"
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{},\\"loadingLogo\\":{},\\"applicationTitle\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="custom title logo"
+          class="loadingLogo"
+          data-test-image-url="/ui/logos/opensearch_spinner_on_light.svg"
+          data-test-subj="defaultLogo"
+          loading="eager"
+          src="/ui/logos/opensearch_spinner_on_light.svg"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="custom title logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/ui/logos/opensearch_mark_on_light.svg"
+      data-test-subj="default logo"
+      src="/ui/logos/opensearch_mark_on_light.svg"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;
+
+exports[`Loading page  render favicon  using a valid URL 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    OpenSearch Dashboards
+  </title>,
+  <link
+    href="/customFavicon"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="/customFavicon"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="/customFavicon"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href=""
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="/customFavicon"
+    rel="mask-icon"
+  />,
+  <link
+    href="/customFavicon"
+    rel="shortcut icon"
+  />,
+  <meta
+    content=""
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{},\\"loadingLogo\\":{},\\"faviconUrl\\":\\"/customFavicon\\",\\"title\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="OpenSearch Dashboards logo"
+          class="loadingLogo"
+          data-test-image-url="/ui/logos/opensearch_spinner_on_light.svg"
+          data-test-subj="defaultLogo"
+          loading="eager"
+          src="/ui/logos/opensearch_spinner_on_light.svg"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="OpenSearch Dashboards logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/ui/logos/opensearch_mark_on_light.svg"
+      data-test-subj="default logo"
+      src="/ui/logos/opensearch_mark_on_light.svg"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;
+
+exports[`Loading page  render favicon  using an invalid URL 1`] = `
+Array [
+  <meta
+    charset="utf-8"
+  />,
+  <meta
+    content="IE=edge,chrome=1"
+    http-equiv="X-UA-Compatible"
+  />,
+  <meta
+    content="width=device-width"
+    name="viewport"
+  />,
+  <title>
+    OpenSearch Dashboards
+  </title>,
+  <link
+    href="[object Object]/ui/favicons/apple-touch-icon.png"
+    rel="apple-touch-icon"
+    sizes="180x180"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-32x32.png"
+    rel="icon"
+    sizes="32x32"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon-16x16.png"
+    rel="icon"
+    sizes="16x16"
+    type="image/png"
+  />,
+  <link
+    href="[object Object]/ui/favicons/manifest.json"
+    rel="manifest"
+  />,
+  <link
+    color="#003553"
+    href="[object Object]/ui/favicons/safari-pinned-tab.svg"
+    rel="mask-icon"
+  />,
+  <link
+    href="[object Object]/ui/favicons/favicon.ico"
+    rel="shortcut icon"
+  />,
+  <meta
+    content="[object Object]/ui/favicons/browserconfig.xml"
+    name="msapplication-config"
+  />,
+  <meta
+    content="#ffffff"
+    name="theme-color"
+  />,
+  null,
+  <meta
+    name="add-styles-here"
+  />,
+  <meta
+    name="add-scripts-here"
+  />,
+  null,
+  <osd-csp
+    data="{\\"strictCsp\\":true}"
+  />,
+  <osd-injected-metadata
+    data="{\\"version\\":\\"opensearchDashboardsVersion\\",\\"buildNumber\\":1,\\"basePath\\":\\"\\",\\"serverBasePath\\":\\"\\",\\"env\\":{\\"packageInfo\\":{\\"version\\":\\"\\",\\"branch\\":\\"\\",\\"buildNum\\":1,\\"buildSha\\":\\"\\",\\"dist\\":true},\\"mode\\":{\\"name\\":\\"production\\",\\"dev\\":true,\\"prod\\":false}},\\"anonymousStatusPage\\":false,\\"i18n\\":{\\"translationsUrl\\":\\"\\"},\\"csp\\":{\\"warnLegacyBrowsers\\":true},\\"uiPlugins\\":[],\\"legacyMetadata\\":{\\"uiSettings\\":{\\"defaults\\":{\\"legacyInjectedUiSettingDefaults\\":true},\\"user\\":{}}},\\"branding\\":{\\"darkMode\\":false,\\"logo\\":{},\\"mark\\":{},\\"loadingLogo\\":{},\\"title\\":\\"custom title\\"}}"
+  />,
+  <div
+    class="osdWelcomeView"
+    data-test-subj="osdLoadingMessage"
+    id="osd_loading_message"
+    style="display:none"
+  >
+    <div
+      class="osdLoaderWrap"
+      data-test-subj="loadingLogo"
+    >
+      <div
+        class="loadingLogoContainer"
+      >
+        <img
+          alt="OpenSearch Dashboards logo"
+          class="loadingLogo"
+          data-test-image-url="/ui/logos/opensearch_spinner_on_light.svg"
+          data-test-subj="defaultLogo"
+          loading="eager"
+          src="/ui/logos/opensearch_spinner_on_light.svg"
+        />
+      </div>
+      <div
+        class="osdWelcomeText"
+        data-error-message=""
+      />
+    </div>
+  </div>,
+  <div
+    class="osdWelcomeView"
+    id="osd_legacy_browser_error"
+    style="display:none"
+  >
+    <img
+      alt="OpenSearch Dashboards logo"
+      class="legacyBrowserErrorLogo"
+      data-test-image-url="/ui/logos/opensearch_mark_on_light.svg"
+      data-test-subj="default logo"
+      src="/ui/logos/opensearch_mark_on_light.svg"
+    />
+    <h2
+      class="osdWelcomeTitle"
+    />
+    <div
+      class="osdWelcomeText"
+    />
+  </div>,
+  <script>
+    
+            // Since this is an unsafe inline script, this code will not run
+            // in browsers that support content security policy(CSP). This is
+            // intentional as we check for the existence of __osdCspNotEnforced__ in
+            // bootstrap.
+            window.__osdCspNotEnforced__ = true;
+          
+  </script>,
+  <script
+    src="[object Object]/bootstrap.js"
+  />,
+]
+`;

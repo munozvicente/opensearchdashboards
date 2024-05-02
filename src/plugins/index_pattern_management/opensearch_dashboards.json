@@ -1,0 +1,9 @@
+{
+  "id": "indexPatternManagement",
+  "version": "opensearchDashboards",
+  "server": true,
+  "ui": true,
+  "optionalPlugins": ["dataSource"],
+  "requiredPlugins": ["management", "data", "urlForwarding"],
+  "requiredBundles": ["opensearchDashboardsReact", "opensearchDashboardsUtils"]
+}

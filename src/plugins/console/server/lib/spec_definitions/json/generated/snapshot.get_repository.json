@@ -1,0 +1,17 @@
+{
+  "snapshot.get_repository": {
+    "url_params": {
+      "master_timeout": "",
+      "cluster_manager_timeout": "",
+      "local": "__flag__"
+    },
+    "methods": [
+      "GET"
+    ],
+    "patterns": [
+      "_snapshot",
+      "_snapshot/{repository}"
+    ],
+    "documentation": "https://opensearch.org/docs/latest/api-reference/snapshots/get-snapshot-repository/"
+  }
+}
